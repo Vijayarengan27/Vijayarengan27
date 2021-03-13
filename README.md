@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vijayarengan27
-- 👀 I’m interested in data anlysis,visualization and machine learning
+- 👀 I’m interested in data analysis,visualization and machine learning
 - 🌱 I’m currently studying Data Analytics at UMN
 - 💞️ I’m looking to collaborate on technical and interesting projects
 - 📫 How to reach me ... vijayarengan27@gmail.com
